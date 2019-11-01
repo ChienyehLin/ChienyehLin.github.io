@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Chien-Yeh Lin's Webpage!"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi. My name is Lin, Chien-Yeh(林建業). My website is still under construction.
+Hi.  Welcome to my website.  My name is Lin, Chien-Yeh(林建業). My website is still under construction...
 
 Brife bio
 ======
