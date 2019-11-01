@@ -19,7 +19,7 @@ After graduation, I plan to pursue M.S in computer science to enhance my knowled
 Interests
 ======
 Through my undergraduate study, my interest lies in :  
-Computer Vision &nbsp;     Image Processing&nbsp;       Computer Graphics
+Computer Vision &nbsp; &nbsp; &nbsp; &nbsp;    Image Processing&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;      Computer Graphics
 
 Current Status
 ------
