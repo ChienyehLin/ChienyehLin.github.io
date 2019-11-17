@@ -21,9 +21,10 @@ Interests
 Through my undergraduate study, my interest lies in :  
 Computer Vision &nbsp; &nbsp; &nbsp; &nbsp;    Image Processing&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;      Computer Graphics
 &nbsp; &nbsp; &nbsp; &nbsp; HCI
+
 Current Status
 ------
-Currently, I am serving in the army in Taiwan. I plan to continue my interest as a research assistant.
+Currently, I am serving in the army in Taiwan. I plan to continue my interest as a computer vision engineer after miliary service.
 
 Contact
 ------
