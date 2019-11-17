@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can downlaod my full CV [here](https://chienyehlin.github.io/Resume_Lin, Chien-Yeh.pdf).
+You can downlaod my recent CV [here](https://chienyehlin.github.io/Resume_Lin, Chien-Yeh.pdf).
 
 Education
 ======
