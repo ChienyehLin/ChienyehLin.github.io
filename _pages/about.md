@@ -28,7 +28,7 @@ Currently, I am serving in the army in Taiwan. I plan to continue my interest as
 
 Contact
 ------
-Only Email contact is available now.
+Only Email contact (linchienyeh_jaden@outlook.com) is available now.
 
 
 
