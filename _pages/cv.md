@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 You can downlaod my full CV here[chienyehlin.github.io/Resume_Lin, Chien-Yeh.pdf].
+
 Education
 ======
 * B.S. in Computer Science & Engineering, National Sun Yat-sen University, 2019
