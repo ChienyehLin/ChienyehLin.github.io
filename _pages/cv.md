@@ -9,34 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+You can downlaod my full CV here[chienyehlin.github.io/Resume_Lin, Chien-Yeh.pdf].
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science & Engineering, National Sun Yat-sen University, 2019
+* Exchange program in Computer Science, Nanyang techenological University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: IT Engineer
+  * Application Development Department, Wistron NeWeb Corporation
+  * Duties included: MongoDB architecture & full-text serach engine development
+  * Supervisor: Hsin-Kuang Lin
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2016: System Engineer
+  * Project Management Center, DJ HealthUnion Systems Corporation
+  * Duties included: RIS system construction & maintenance
+  * Supervisor: Zhenxiang Xi
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++,C#
+* Python
+  * OpenCV
+  * Tensorflow
+  * Keras
+* Java
+* MongoDB, MySQL, Microsoft SQL server
 
-Publications
+[comment]: #(Publications)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as Vice President of Student Association of Dept. of CSE for 1 year.
