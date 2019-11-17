@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi.  Welcome to my website.  My name is Lin, Chien-Yeh(林建業). My website is still under construction...
+Hi. My name is Lin, Chien-Yeh(林建業). You can also call me Jaden. My website is still under construction...
 
 Brife bio
 ======
