@@ -2,16 +2,13 @@
 main:
 
   - title: "About Me"
-    url: /talks/    
-
-  - title: "Education & Area of Interest"
-    url: /portfolio/
-    
-  - title: "Experience"
-    url: /teaching/    
+    url: /about/   
     
   - title: "CV"
     url: /cv/
+
+  - title: "Experience"
+    url: /teaching/    
     
   - title: "Others"
     url: /others/
