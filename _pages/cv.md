@@ -13,7 +13,7 @@ You can downlaod my recent CV [here](https://chienyehlin.github.io/Resume_Lin,Ch
 
 Education
 ======
-* B.S. in Computer Science & Engineering, National Sun Yat-sen University, 2019
+* B.S. in Computer Science & Engineering, National Sun Yat-sen University, 2015-2019
 * Exchange program in Computer Science, Nanyang techenological University, 2019
 
 Work experience
