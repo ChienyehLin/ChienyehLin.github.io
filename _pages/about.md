@@ -20,7 +20,7 @@ Interests
 ======
 Through my undergraduate study, my interest lies in :  
 Computer Vision &nbsp; &nbsp; &nbsp; &nbsp;    Image Processing&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;      Computer Graphics
-&nbsp; &nbsp; &nbsp; &nbsp; HCI
+&nbsp; &nbsp; &nbsp; &nbsp;
 
 Current Status
 ------
